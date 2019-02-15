@@ -3,3 +3,4 @@ Abstract arrays, lists and optimized sorting algorithms (~still work in progress
 
 I have created an abstract array and an abrstract list in java as part of my studies. Furthermore, out of my own curiosity I've indulged myself in parallel quickSort and parallel mergeSort. At the moment trying to optimize those to their best potential.
 Currently using NetBeans, so all the java classes are under a package that I believe is called ADT.
+Added the NetBeans project as well, just in case. Sorry for the lack of comments, didn't mean to upload it anywhere at first.
